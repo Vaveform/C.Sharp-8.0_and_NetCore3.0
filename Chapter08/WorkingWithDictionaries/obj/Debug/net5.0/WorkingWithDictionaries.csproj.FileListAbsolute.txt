@@ -1,0 +1,16 @@
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries.deps.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries.runtimeconfig.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries.runtimeconfig.dev.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/bin/Debug/net5.0/ref/WorkingWithDictionaries.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries.pdb
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.csprojAssemblyReference.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.AssemblyInfoInputs.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.AssemblyInfo.cs
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/obj/Debug/net5.0/ref/WorkingWithDictionaries.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.pdb
+/home/user/C#_NET_CORE/Chapter08/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.genruntimeconfig.cache

@@ -1,0 +1,70 @@
+{
+	"folders": [
+		{
+			"path": "../Chapter05/PacktLibrary"
+		},
+		{
+			"path": "../Chapter05/PeopleApp"
+		},
+		{
+			"path": "PacktLibrary"
+		},
+		{
+			"path": "PeopleApp"
+		},
+		{
+			"path": "Exercise02"
+		},
+		{
+			"path": "../Chapter08/WorkingWithNumbers"
+		},
+		{
+			"path": "../Chapter08/WorkingWithText"
+		},
+		{
+			"path": "../Chapter08/WorkingWithRegularExpression"
+		},
+		{
+			"path": "../Chapter08/WorkingWithLists"
+		},
+		{
+			"path": "../Chapter08/WorkingWithDictionaries"
+		},
+		{
+			"path": "../Chapter08/WorkingWithRanges"
+		},
+		{
+			"path": "../Chapter08/WorkingWithNetwork"
+		},
+		{
+			"path": "../Chapter08/WorkingWithReflection"
+		},
+		{
+			"path": "../Chapter08/Internationalization"
+		},
+		{
+			"path": "../Chapter08/Exercise02"
+		},
+		{
+			"path": "../Chapter08/Exercise03"
+		},
+		{
+			"path": "../Chapter08/NumberExtensionsApp"
+		},
+		{
+			"path": "../Chapter09/WorkingWithFileSystems"
+		},
+		{
+			"path": "../Chapter09/WorkingWithStreams"
+		},
+		{
+			"path": "../Chapter09/WorkingWithEncodings"
+		},
+		{
+			"path": "../Chapter09/WorkingWithSerialization"
+		},
+		{
+			"path": "../Chapter09/Exercise02"
+		}
+	]
+}

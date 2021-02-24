@@ -1,0 +1,12 @@
+/home/user/C#_NET_CORE/Chapter08/Exercise03/bin/Debug/net5.0/Exercise03.deps.json
+/home/user/C#_NET_CORE/Chapter08/Exercise03/bin/Debug/net5.0/Exercise03.dll
+/home/user/C#_NET_CORE/Chapter08/Exercise03/bin/Debug/net5.0/ref/Exercise03.dll
+/home/user/C#_NET_CORE/Chapter08/Exercise03/bin/Debug/net5.0/Exercise03.pdb
+/home/user/C#_NET_CORE/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.csprojAssemblyReference.cache
+/home/user/C#_NET_CORE/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/C#_NET_CORE/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.AssemblyInfoInputs.cache
+/home/user/C#_NET_CORE/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.AssemblyInfo.cs
+/home/user/C#_NET_CORE/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.csproj.CoreCompileInputs.cache
+/home/user/C#_NET_CORE/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.dll
+/home/user/C#_NET_CORE/Chapter08/Exercise03/obj/Debug/net5.0/ref/Exercise03.dll
+/home/user/C#_NET_CORE/Chapter08/Exercise03/obj/Debug/net5.0/Exercise03.pdb

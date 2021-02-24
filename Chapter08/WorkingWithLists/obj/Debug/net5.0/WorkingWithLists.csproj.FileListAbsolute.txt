@@ -1,0 +1,16 @@
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists.deps.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists.runtimeconfig.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists.runtimeconfig.dev.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/bin/Debug/net5.0/ref/WorkingWithLists.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists.pdb
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.csprojAssemblyReference.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.AssemblyInfoInputs.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.AssemblyInfo.cs
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.csproj.CoreCompileInputs.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/obj/Debug/net5.0/ref/WorkingWithLists.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.pdb
+/home/user/C#_NET_CORE/Chapter08/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NumberExtensionsApp/1.0.0": {
+        "dependencies": {
+          "Exercise03": "1.0.0"
+        },
+        "runtime": {
+          "NumberExtensionsApp.dll": {}
+        }
+      },
+      "Exercise03/1.0.0": {
+        "runtime": {
+          "Exercise03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumberExtensionsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

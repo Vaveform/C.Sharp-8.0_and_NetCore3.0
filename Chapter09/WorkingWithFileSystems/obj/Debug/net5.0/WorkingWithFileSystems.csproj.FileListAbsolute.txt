@@ -1,0 +1,16 @@
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.csprojAssemblyReference.cache
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.AssemblyInfoInputs.cache
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.AssemblyInfo.cs
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems.deps.json
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems.runtimeconfig.json
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems.runtimeconfig.dev.json
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems.dll
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/ref/WorkingWithFileSystems.dll
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems.pdb
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.dll
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/ref/WorkingWithFileSystems.dll
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.pdb
+/home/user/C#_NET_CORE/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.genruntimeconfig.cache

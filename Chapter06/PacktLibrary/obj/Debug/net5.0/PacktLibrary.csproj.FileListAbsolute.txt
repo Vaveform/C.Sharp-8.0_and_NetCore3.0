@@ -1,0 +1,12 @@
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/bin/Debug/net5.0/PacktLibrary.deps.json
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/bin/Debug/net5.0/PacktLibrary.dll
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/bin/Debug/net5.0/ref/PacktLibrary.dll
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/bin/Debug/net5.0/PacktLibrary.pdb
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.csprojAssemblyReference.cache
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.AssemblyInfoInputs.cache
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.AssemblyInfo.cs
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.dll
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/obj/Debug/net5.0/ref/PacktLibrary.dll
+/home/user/C#_NET_CORE/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.pdb

@@ -1,0 +1,16 @@
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.csprojAssemblyReference.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.AssemblyInfoInputs.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.AssemblyInfo.cs
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.csproj.CoreCompileInputs.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.deps.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.runtimeconfig.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.runtimeconfig.dev.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/bin/Debug/net5.0/ref/WorkingWithText.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.pdb
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/obj/Debug/net5.0/ref/WorkingWithText.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.pdb
+/home/user/C#_NET_CORE/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.genruntimeconfig.cache

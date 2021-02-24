@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WorkingWithNetwork/1.0.0": {
+        "runtime": {
+          "WorkingWithNetwork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkingWithNetwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

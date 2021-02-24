@@ -1,0 +1,16 @@
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings.deps.json
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings.runtimeconfig.json
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings.runtimeconfig.dev.json
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings.dll
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/ref/WorkingWithEncodings.dll
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings.pdb
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.csprojAssemblyReference.cache
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.AssemblyInfoInputs.cache
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.AssemblyInfo.cs
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.csproj.CoreCompileInputs.cache
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.dll
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/ref/WorkingWithEncodings.dll
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.pdb
+/home/user/C#_NET_CORE/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.genruntimeconfig.cache

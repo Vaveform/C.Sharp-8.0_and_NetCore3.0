@@ -1,0 +1,16 @@
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/obj/Debug/net5.0/WorkingWithNetwork.csprojAssemblyReference.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/obj/Debug/net5.0/WorkingWithNetwork.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/obj/Debug/net5.0/WorkingWithNetwork.AssemblyInfoInputs.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/obj/Debug/net5.0/WorkingWithNetwork.AssemblyInfo.cs
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/obj/Debug/net5.0/WorkingWithNetwork.csproj.CoreCompileInputs.cache
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/bin/Debug/net5.0/WorkingWithNetwork
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/bin/Debug/net5.0/WorkingWithNetwork.deps.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/bin/Debug/net5.0/WorkingWithNetwork.runtimeconfig.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/bin/Debug/net5.0/WorkingWithNetwork.runtimeconfig.dev.json
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/bin/Debug/net5.0/WorkingWithNetwork.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/bin/Debug/net5.0/ref/WorkingWithNetwork.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/bin/Debug/net5.0/WorkingWithNetwork.pdb
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/obj/Debug/net5.0/WorkingWithNetwork.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/obj/Debug/net5.0/ref/WorkingWithNetwork.dll
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/obj/Debug/net5.0/WorkingWithNetwork.pdb
+/home/user/C#_NET_CORE/Chapter08/WorkingWithNetwork/obj/Debug/net5.0/WorkingWithNetwork.genruntimeconfig.cache
