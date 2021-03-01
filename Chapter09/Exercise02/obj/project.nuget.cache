@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CXFgbnvYZC1+AjZw81Glx9quUjxHcFtOijrfurvyDrunNgcaf9plDSpAk2yEjk1/AyE+glCQ7mYC00JtWhUTow==",
+  "dgSpecHash": "8arMEJwLuX3EkDQmVgLcZzSDXZGt3UN7BPo4H8IGNXUp0DdPH/qjU2l4AczTw3lb1HunKS7o/qPjkxpIzIfShA==",
   "success": true,
-  "projectFilePath": "/home/user/C#_NET_CORE/Chapter09/Exercise02/Exercise02.csproj",
+  "projectFilePath": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter09/Exercise02/Exercise02.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

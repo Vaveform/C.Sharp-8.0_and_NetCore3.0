@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter09/Exercise02/Exercise02.csproj": {}
+    "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter11/WorkingWithEFCore/WorkingWithEFCore.csproj": {}
   },
   "projects": {
-    "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter09/Exercise02/Exercise02.csproj": {
+    "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter11/WorkingWithEFCore/WorkingWithEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter09/Exercise02/Exercise02.csproj",
-        "projectName": "Exercise02",
-        "projectPath": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter09/Exercise02/Exercise02.csproj",
+        "projectUniqueName": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter11/WorkingWithEFCore/WorkingWithEFCore.csproj",
+        "projectName": "WorkingWithEFCore",
+        "projectPath": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter11/WorkingWithEFCore/WorkingWithEFCore.csproj",
         "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter09/Exercise02/obj/",
+        "outputPath": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter11/WorkingWithEFCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

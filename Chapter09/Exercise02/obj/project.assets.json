@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/C#_NET_CORE/Chapter09/Exercise02/Exercise02.csproj",
+      "projectUniqueName": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter09/Exercise02/Exercise02.csproj",
       "projectName": "Exercise02",
-      "projectPath": "/home/user/C#_NET_CORE/Chapter09/Exercise02/Exercise02.csproj",
+      "projectPath": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter09/Exercise02/Exercise02.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/C#_NET_CORE/Chapter09/Exercise02/obj/",
+      "outputPath": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter09/Exercise02/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }
