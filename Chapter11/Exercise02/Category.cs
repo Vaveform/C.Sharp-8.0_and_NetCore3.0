@@ -1,8 +1,10 @@
 using System.Collections.Generic;
-using System.Collections.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations.Schema;
+using System;
 
 namespace Northwind.Types
 {
+    [Serializable]
     public class Category
     {
         public int CategoryID {get; set;}
@@ -11,13 +13,13 @@ namespace Northwind.Types
 
         public string Description{get;set;}
 
-        [NonSerialized()]
+        //[NonSerialized()]
         // navigation property
-        public virtual ICollection<Product> Products {get; set;}
+        // public virtual ICollection<Product> Products {get; set;}
 
-        public Category()
-        {
-            this.Products = new List<Product>();
-        }
+        // public Category()
+        // {
+        //     this.Products = new List<Product>();
+        // }
     }
 }

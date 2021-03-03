@@ -51,3 +51,4 @@
 /home/user/C.Sharp-8.0_and_NetCore3.0/Chapter11/Exercise02/obj/Debug/net5.0/ref/Exercise02.dll
 /home/user/C.Sharp-8.0_and_NetCore3.0/Chapter11/Exercise02/obj/Debug/net5.0/Exercise02.pdb
 /home/user/C.Sharp-8.0_and_NetCore3.0/Chapter11/Exercise02/obj/Debug/net5.0/Exercise02.genruntimeconfig.cache
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter11/Exercise02/bin/Debug/net5.0/Newtonsoft.Json.dll
