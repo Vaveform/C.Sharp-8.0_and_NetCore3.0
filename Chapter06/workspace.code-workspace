@@ -68,6 +68,9 @@
 		},
 		{
 			"path": "../Chapter11/WorkingWithEFCore"
+		},
+		{
+			"path": "../Chapter11/Exercise02"
 		}
 	]
 }

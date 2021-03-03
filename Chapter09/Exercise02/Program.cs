@@ -35,6 +35,7 @@ namespace Exercise02
             WriteLine("Loading shapes from XML:");
             using(FileStream xmlLoad = File.Open(FilePath, FileMode.Open)){
                 List<Shape> shapes = serializer.Deserialize(xmlLoad) as List<Shape>;
+                
                 foreach (Shape item in shapes)
                 {
                     WriteLine("{0} is {1} and has an area of {2:N2}",
