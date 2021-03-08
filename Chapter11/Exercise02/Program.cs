@@ -12,6 +12,8 @@ using System.Collections.Generic;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Runtime.Serialization;
 using System.Linq;
+using Microsoft.EntityFrameworkCore.Storage;
+using Microsoft.EntityFrameworkCore;
 
 namespace Exercise02
 {
@@ -20,27 +22,48 @@ namespace Exercise02
         static void Main(string[] args)
         {
             BinaryFormatter binarySerializer = new BinaryFormatter();
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(Category));
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Category>));
             Newtonsoft.Json.JsonSerializer jsonSerializer = new Newtonsoft.Json.JsonSerializer();
             using (var db = new DbNorthwind())
             {
-                using(FileStream file = File.Create("Categories.dat"))
+                // Eager loading
+                List<Category> categories = db.Categories.Include(c => c.Products).ToList();
+                using(FileStream file = File.Create("CategoriesAndProducts.dat"))
                 {
-                    binarySerializer.Serialize(file, db.Categories.ToList());
-                    // foreach(var item in db.Categories.ToList())
-                    // {
-                    //     binarySerializer.Serialize(file, item);
-                    //     //xmlSerializer.Serialize(file, item);
-                    //     // jsonSerializer.Serialize(file, item);
-                    // }
+                    binarySerializer.Serialize(file, categories);
                 }
+                using(FileStream file = File.Create("CategoriesAndProducts.xml"))
+                {
+                    xmlSerializer.Serialize(file, categories);
+                }
+                using(StreamWriter file = File.CreateText(Combine(CurrentDirectory, "CategoriesAndProducts.json")))
+                {
+                    jsonSerializer.Serialize(file, categories);
+                }
+
 
             }
 
-            using(FileStream file = File.Open("Categories.dat", FileMode.Open)){
-                var cats = (List<Category>)binarySerializer.Deserialize(file);
+            // Deserialed all formats to check
+            using(FileStream file = File.Open("CategoriesAndProducts.xml", FileMode.Open)){
+                var cats = xmlSerializer.Deserialize(file) as List<Category>;
                 foreach(var cat in cats){
-                    WriteLine($"Category ID {cat.CategoryID}, category Name {cat.CategoryName}");
+                    WriteLine($"Category ID {cat.CategoryID}, category Name {cat.CategoryName}, {cat.Products.Count}");
+                }
+            }
+
+            using(FileStream file = File.Open("CategoriesAndProducts.dat", FileMode.Open)){
+                var cats = binarySerializer.Deserialize(file) as List<Category>;
+                foreach(var cat in cats){
+                    WriteLine($"Category ID {cat.CategoryID}, category Name {cat.CategoryName}, {cat.Products.Count}");
+                }
+            }
+
+            using(StreamReader file = File.OpenText("CategoriesAndProducts.json"))
+            {
+                var cats = jsonSerializer.Deserialize(file, typeof(List<Category>)) as List<Category>;
+                foreach(var cat in cats){
+                    WriteLine($"Category ID {cat.CategoryID}, category Name {cat.CategoryName}, {cat.Products.Count}");
                 }
             }
         }

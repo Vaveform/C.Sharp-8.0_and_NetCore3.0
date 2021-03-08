@@ -7,19 +7,13 @@ namespace Northwind.Types
     [Serializable]
     public class Category
     {
-        public int CategoryID {get; set;}
+        public int CategoryID {set; get;}
 
-        public string CategoryName {get; set;}
+        public string CategoryName {set; get;}
 
-        public string Description{get;set;}
+        public string Description{set;get;}
 
-        //[NonSerialized()]
-        // navigation property
-        // public virtual ICollection<Product> Products {get; set;}
-
-        // public Category()
-        // {
-        //     this.Products = new List<Product>();
-        // }
+        // navigation property - without virtual beacuse without proxy
+        public List<Product> Products {set; get;}
     }
 }

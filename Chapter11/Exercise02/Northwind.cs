@@ -3,6 +3,7 @@ using Northwind.Types;
 using System;
 using System.IO;
 
+
 namespace Northwind.Database
 {
     public class DbNorthwind : DbContext
@@ -10,6 +11,7 @@ namespace Northwind.Database
         static private string dbName{get;set;} = "Northwind.db"; 
         // table for Categories
         public DbSet<Category> Categories {get; set;}
+        public DbSet<Product> Products{get;set;}
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -35,12 +37,12 @@ namespace Northwind.Database
             // Fluent API - for property Cost
             modelBuilder.Entity<Product>()
                 .Property(product => product.Cost)
-                .HasColumnName("UnitPrice").HasColumnType("money")
+                .HasColumnName("UnitPrice").HasColumnType("money");
 
             // Stock
             modelBuilder.Entity<Product>()
                 .Property(product => product.Stock)
-                .HasColumnName("UnitsInStock")
+                .HasColumnName("UnitsInStock");
         }
     }
 }

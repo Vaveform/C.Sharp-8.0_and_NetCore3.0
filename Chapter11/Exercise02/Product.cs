@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System;
 
 namespace Northwind.Types
 {
@@ -16,8 +17,5 @@ namespace Northwind.Types
 
         // these two define the foreign key relationship
         public int CategoryID{get;set;}
-        
-        [NonSerialized()]
-        public virtual Category Categort {get;set;}
     }
 }
