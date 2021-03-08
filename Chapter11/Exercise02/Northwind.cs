@@ -26,6 +26,21 @@ namespace Northwind.Database
             modelBuilder.Entity<Category>()
                 .Property(category => category.CategoryName)
                 .IsRequired();
+
+            // Fluent API - for property ProductName
+            modelBuilder.Entity<Product>()
+                .Property(product => product.ProductName)
+                .IsRequired().HasMaxLength(40);
+            
+            // Fluent API - for property Cost
+            modelBuilder.Entity<Product>()
+                .Property(product => product.Cost)
+                .HasColumnName("UnitPrice").HasColumnType("money")
+
+            // Stock
+            modelBuilder.Entity<Product>()
+                .Property(product => product.Stock)
+                .HasColumnName("UnitsInStock")
         }
     }
 }
