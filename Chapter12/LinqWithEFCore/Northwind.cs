@@ -1,4 +1,4 @@
-using Microsoft.EntityFramework;
+using Microsoft.EntityFrameworkCore;
 
 namespace Packt.Shared
 {
@@ -10,7 +10,7 @@ namespace Packt.Shared
         public DbSet<Product> Products{get;set;}
 
         protected override void OnConfiguring(
-            DbContextOptionalBuilder optionalBuilder
+            DbContextOptionsBuilder optionalBuilder
         ){
             string path = System.IO.Path.Combine(
                 System.Environment.CurrentDirectory, "Northwind.db"
