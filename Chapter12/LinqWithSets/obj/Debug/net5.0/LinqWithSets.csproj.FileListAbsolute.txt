@@ -1,0 +1,16 @@
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.deps.json
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.runtimeconfig.json
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.runtimeconfig.dev.json
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.dll
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/bin/Debug/net5.0/ref/LinqWithSets.dll
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.pdb
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.csprojAssemblyReference.cache
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.AssemblyInfoInputs.cache
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.AssemblyInfo.cs
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.csproj.CoreCompileInputs.cache
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.dll
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/obj/Debug/net5.0/ref/LinqWithSets.dll
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.pdb
+/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.genruntimeconfig.cache

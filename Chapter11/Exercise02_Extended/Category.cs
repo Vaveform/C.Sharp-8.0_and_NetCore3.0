@@ -2,6 +2,7 @@ using System;
 
 namespace Northwind.Types
 {
+    // For binary serialization class should have Serializable Attribute 
     [Serializable]
     public class Category{
         public int CategoryID{get;set;}
