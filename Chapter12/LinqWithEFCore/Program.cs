@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using Packt.Shared;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using System.Xml.Linq;
 
 namespace LinqWithEFCore
 {
@@ -152,35 +153,84 @@ namespace LinqWithEFCore
                     db.Products.Mode(p => p.UnitPrice));
             }
         }
+
+        static void OutputProductsAsXml()
+        {
+            using(var db = new Northwind())
+            {
+                var productsForXml = db.Products.ToArray();
+                // var xmlComprehension = new XElement("products",
+                //     from p in productsForXml
+                //     select new XElement("product",
+                //         new XAttribute("id", p.ProductID),
+                //         new XAttribute("price", p.UnitPrice),
+                //         new XElement("name", p.ProductName)
+                //     )
+                // );
+
+                var xml = new XElement("products",
+                    productsForXml.Select(product => new XElement("product",
+                        new XAttribute("id", product.ProductID),
+                        new XAttribute("price", product.UnitPrice),
+                        new XElement("name", product.ProductName)
+                    ))
+                );
+
+                WriteLine(xml.ToString()); 
+            }
+        }
+
+        static void ProcessSettings()
+        {
+            XDocument doc = XDocument.Load("settings.xml");
+            // Descedants return IEnumerable of subnodes for
+            // current xml document or element 
+            var appSettings = doc.Descendants("appSettings")
+                .Descendants("add")
+                .Select(node => new {
+                    Key = node.Attribute("key").Value,
+                    Value = node.Attribute("value").Value
+                }).ToArray();
+            
+            foreach(var item in appSettings)
+            {
+                WriteLine($"{item.Key}: {item.Value}");
+            }
+        }
+
         static void Main(string[] args)
         {
-            FilterAndSort();
-            //JoinCategoriesAndProducts();
-            //GroupJoinCategoriesAndProducts();
-            //AggregateProducts();
+            // FilterAndSort();
+            // //JoinCategoriesAndProducts();
+            // //GroupJoinCategoriesAndProducts();
+            // //AggregateProducts();
 
 
 
-            var names = new string[] { "Michael", "Pam", "Jim", "Dwight", "Angela", "Kevin", "Toby", "Creed"};
+            // var names = new string[] { "Michael", "Pam", "Jim", "Dwight", "Angela", "Kevin", "Toby", "Creed"};
 
-            // Comprehension syntax of LINQ
-            var comprehension_query = from name in names
-                where name.Length > 4
-                orderby name.Length, name
-                select name;
+            // // Comprehension syntax of LINQ
+            // var comprehension_query = from name in names
+            //     where name.Length > 4
+            //     orderby name.Length, name
+            //     select name;
 
 
-            // LINQ syntax
-            var query = names
-                .Where(name => name.Length > 4)
-                .OrderBy(name => name.Length)
-                .ThenBy(name => name);
+            // // LINQ syntax
+            // var query = names
+            //     .Where(name => name.Length > 4)
+            //     .OrderBy(name => name.Length)
+            //     .ThenBy(name => name);
 
-            // Comprehension syntax has not equivalent of Skip and Take for example
-            // We can combine to syntax
-            var combined_query = (from name in names where name.Length > 4 select name).Skip(80).Take(10);
+            // // Comprehension syntax has not equivalent of Skip and Take for example
+            // // We can combine to syntax
+            // var combined_query = (from name in names where name.Length > 4 select name).Skip(80).Take(10);
 
-            CustomExtensionMethods();
+            // CustomExtensionMethods();
+
+            // OutputProductsAsXml();
+
+            ProcessSettings();
 
         }
     }

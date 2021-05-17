@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NHVgvZmfdifkCUNUYB/Nb+omgkDw/TfA2DdbEkjJbZ4GKIeXILnZprkE8Rt7OdfDtjmB+0uS2eLhRe3bTQKUnQ==",
+  "dgSpecHash": "+jVBUjx5vgK8Qtix0s0w16skwtWhDMpp7LvSvOr8hWOKKzwn5RqFXEoE3t1T0OXqYt9wCV/wfPOM7oActgwdJQ==",
   "success": true,
-  "projectFilePath": "/home/user/C.Sharp-8.0_and_NetCore3.0/Chapter12/LinqWithEFCore/LinqWithEFCore.csproj",
+  "projectFilePath": "/home/user/C#_NET_CORE/Chapter12/LinqWithEFCore/LinqWithEFCore.csproj",
   "expectedPackageFiles": [
     "/home/user/.nuget/packages/microsoft.data.sqlite.core/3.0.0/microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.dotnet.platformabstractions/3.0.0/microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",

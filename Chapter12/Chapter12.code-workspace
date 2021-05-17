@@ -86,6 +86,9 @@
 		},
 		{
 			"path": "LinqInParallel"
+		},
+		{
+			"path": "Exercise02"
 		}
 	]
 }
